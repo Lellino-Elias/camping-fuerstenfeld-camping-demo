@@ -27,17 +27,17 @@ const campingFuerstenfeld: CampsiteConfig = {
   pillars: [
     {
       title: "Direkt am Freibad",
-      text: "Der Platz grenzt unmittelbar an das Freibad Fürstenfeld — mit 23.000 m² Wasserfläche das größte Becken-Freibad Österreichs. Der Eintritt ist im Campingpreis inklusive.",
+      text: "Der Platz grenzt direkt ans Freibad Fürstenfeld — größtes Becken-Freibad Österreichs, Eintritt inklusive.",
       image: { src: `${IMG}/gallery-ef140e0a5b.webp`, alt: "Freibad Fürstenfeld mit Wasserrutschen direkt neben dem Campingplatz" },
     },
     {
       title: "Mitten im Grünen",
-      text: "Auf zwei Seiten vom idyllischen Buchwald, auf der dritten von der ruhig fließenden Feistritz umschlossen — Natur und Ruhe rundherum.",
+      text: "Vom Buchwald und der ruhig fließenden Feistritz umschlossen — Natur und Ruhe auf allen Seiten.",
       image: { src: `${IMG}/gallery-f222a6f778.webp`, alt: "Stellplätze am Ufer der Feistritz im Buchwald bei Fürstenfeld" },
     },
     {
       title: "Vom Campingclub geführt",
-      text: "Den Platz betreibt der 1. Steirische Campingclub Fürstenfeld — persönlich, mit eigener Rezeption und einem Team, das dich gern willkommen heißt.",
+      text: "Der 1. Steirische Campingclub betreibt den Platz persönlich — mit eigener Rezeption und herzlichem Team.",
       image: { src: `${IMG}/gallery-d10a7f01ea.webp`, alt: "Rezeption und Café am Campingplatz Fürstenfeld" },
     },
   ],
@@ -78,7 +78,7 @@ const campingFuerstenfeld: CampsiteConfig = {
     features: [
       {
         title: "Geräumige Stellplätze",
-        text: "Großzügig bemessene Plätze für Wohnwagen, Wohnmobil und Zelt, mit Stromanschluss (10 Ampere) und kostenlosem WLAN fast überall am Platz.",
+        text: "Großzügige Plätze für Wohnwagen, Wohnmobil und Zelt — mit Stromanschluss (10 A) und kostenlosem WLAN.",
         image: { src: `${IMG}/gallery-f18cdb7760.webp`, alt: "Stellplätze für Wohnwagen und Wohnmobile am Campingplatz Fürstenfeld" },
       },
       {
@@ -88,7 +88,7 @@ const campingFuerstenfeld: CampsiteConfig = {
       },
       {
         title: "Moderne Sanitäranlagen",
-        text: "Großzügige Dusch-, Wasch- und Toilettenanlagen mit Warmwasser, dazu Babywickeltisch, Wanne und ein Waschraum mit zwei Waschmaschinen und Trockner.",
+        text: "Geräumige Dusch-, Wasch- und Toilettenanlagen mit Warmwasser, Babywickeltisch, Waschmaschinen und Trockner.",
         image: { src: `${IMG}/amenity-4998b6e509.webp`, alt: "Moderne Sanitäranlagen mit Waschtischen am Campingplatz Fürstenfeld" },
       },
       {
@@ -98,7 +98,7 @@ const campingFuerstenfeld: CampsiteConfig = {
       },
       {
         title: "Gemütlich beisammen",
-        text: "Im überdachten Aufenthaltsbereich trifft man sich — am Wochenende gibt es fallweise die beliebten Gulasch-, Schnitzel- und Grill-Partys.",
+        text: "Im überdachten Aufenthaltsbereich trifft man sich — am Wochenende fallweise mit Gulasch- und Grill-Partys.",
         image: { src: `${IMG}/gallery-95422a21fb.webp`, alt: "Überdachter Aufenthaltsbereich am Campingplatz Fürstenfeld" },
       },
       {
@@ -139,7 +139,7 @@ const campingFuerstenfeld: CampsiteConfig = {
     items: [
       {
         title: "Geführte Radtouren",
-        text: "Direkt vom Platz starten geführte Rad- und Nordic-Walking-Touren — auf gut ausgebauten Rad- und Wanderwegen durch die Oststeiermark.",
+        text: "Geführte Rad- und Nordic-Walking-Touren starten direkt vom Platz, auf ausgebauten Wegen durch die Oststeiermark.",
         image: { src: `${IMG}/gallery-35066d2fa0.webp`, alt: "Radfahrer auf einem Radweg bei Fürstenfeld" },
       },
       {
@@ -149,7 +149,7 @@ const campingFuerstenfeld: CampsiteConfig = {
       },
       {
         title: "Thermenhauptstadt Fürstenfeld",
-        text: "Shopping, Kulinarik und Stadtleben: Die Thermenhauptstadt mit ihrem blühenden Hauptplatz liegt nur wenige Minuten vom Campingplatz entfernt.",
+        text: "Shopping, Kulinarik und Stadtleben: Die Thermenhauptstadt liegt nur wenige Minuten vom Campingplatz entfernt.",
         image: { src: `${IMG}/gallery-ca32e65e70.webp`, alt: "Hauptplatz von Fürstenfeld mit Blumenbeeten und Brunnen" },
       },
     ],
