@@ -94,7 +94,7 @@ const campingFuerstenfeld: CampsiteConfig = {
       {
         title: "Barrierefreie Sanitärräume",
         text: "Behindertengerechte Sanitär- und Duschanlagen sorgen dafür, dass sich bei uns wirklich alle Gäste wohlfühlen.",
-        image: { src: `${IMG}/amenity-27025ecbe2.webp`, alt: "Barrierefreie Dusche mit Sitz am Campingplatz Fürstenfeld" },
+        image: { src: `${IMG}/amenity-ea009477fc.webp`, alt: "Barrierefreier Sanitärraum mit Dusche und WC am Campingplatz Fürstenfeld" },
       },
       {
         title: "Gemütlich beisammen",
